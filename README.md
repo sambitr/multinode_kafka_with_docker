@@ -1,9 +1,9 @@
 # multinode_kafka_with_docker_setup
 
-####################################################################################################################
-Run the Zookeeper and Kafka Brokers one by one on each of UNIX hosts.
-Here for testing purposes we are using 3 UNIX hosts and we will be creating 3 node Docker Kafka Cluster
-####################################################################################################################
+####################################################################################################<br>
+Run the Zookeeper and Kafka Brokers one by one on each of UNIX hosts. <br>
+Here for testing purposes we are using 3 UNIX hosts and we will be creating 3 node Docker Kafka Cluster<br>
+####################################################################################################<br>
 
 #### Zookeeper-1
 
