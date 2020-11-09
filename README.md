@@ -1,4 +1,4 @@
-# multinode_kafka_with_docker_setup
+# multinode_kafka_by_docker_setup
 
 #############################################################################<br>
 <b>Run the Zookeeper and Kafka Brokers one by one on each of UNIX hosts.</b> <br>
