@@ -1,8 +1,8 @@
 # multinode_kafka_with_docker_setup
 
 #############################################################################<br>
-Run the Zookeeper and Kafka Brokers one by one on each of UNIX hosts. <br>
-Here for testing purposes we are using 3 UNIX hosts and we will be creating 3 node Docker Kafka Cluster<br>
+<b>Run the Zookeeper and Kafka Brokers one by one on each of UNIX hosts.</b> <br>
+<b>Here for testing purposes we are using 3 UNIX hosts and we will be creating 3 node Docker Kafka Cluster</b><br>
 #############################################################################<br>
 
 N.B: <b>10.24.32.147, 10.24.32.146 & 10.24.32.80</b> are the IP addresses of the 3 Redhat Virtual Machines on which the 3 nodes of the cluster will be created
