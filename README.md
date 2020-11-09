@@ -87,7 +87,7 @@ docker run -d \
  ```
  
 #############################################################################<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;KAFKA TOPIC CREATION<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<b>KAFKA TOPIC CREATION</b><br>
 #############################################################################<br>
 
 ```
@@ -99,7 +99,7 @@ docker run \
 ```
 
 #############################################################################<br>
-                                KAFKA TOPIC CREATION STATUS CHECK<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<b>KAFKA TOPIC CREATION STATUS CHECK</b><br>
 #############################################################################<br>
 
 ```
@@ -111,7 +111,7 @@ docker run \
 ```
 
 #############################################################################<br>
-                                KAFKA PRODUCER <br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<b>KAFKA PRODUCER</b> <br>
 #############################################################################<br>
 
 ```
@@ -122,7 +122,7 @@ docker run \
 ```
 
 #############################################################################<br>
-                                KAFKA CONSUMER <br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<b>KAFKA CONSUMER</b> <br>
 #############################################################################<br>
 
 ```
